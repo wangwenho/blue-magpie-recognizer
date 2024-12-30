@@ -1,0 +1,24 @@
+bvl
+
+precision    recall  f1-score   support
+
+   red-billed-blue-magpie     0.9607    0.9205    0.9402       239
+       taiwan-blue-magpie     0.9494    0.9740    0.9615       231
+yellow-billed-blue-magpie     0.9378    0.9561    0.9469       205
+
+                 accuracy                         0.9496       675
+                macro avg     0.9493    0.9502    0.9495       675
+             weighted avg     0.9499    0.9496    0.9495       675
+
+
+bva
+
+precision    recall  f1-score   support
+
+   red-billed-blue-magpie     0.9696    0.9331    0.9510       239
+       taiwan-blue-magpie     0.9567    0.9567    0.9567       231
+yellow-billed-blue-magpie     0.9346    0.9756    0.9547       205
+
+                 accuracy                         0.9541       675
+                macro avg     0.9536    0.9551    0.9541       675
+             weighted avg     0.9545    0.9541    0.9540       675

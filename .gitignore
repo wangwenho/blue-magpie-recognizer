@@ -1,0 +1,16 @@
+# dataset
+dataset_1500/
+dataset_1500.zip
+raw_images/
+raw_images.zip
+
+# env files
+.DS_Store
+*.pyc
+__pycache__/
+
+# gradio
+.gradio/
+
+# webdriver
+msedgedriver
